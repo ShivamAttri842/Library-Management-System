@@ -1,4 +1,4 @@
-<h1 align="center">📚 Learning Management System (LMS)</h1> <h3 align="center">A Comprehensive Platform for Managing Online Learning</h3> <p align="center"> <img src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg" alt="LMS Version" /> </p>
+<h1 align="center">📚 Learning Management System (LMS)</h1> <h3 align="center">A Comprehensive Platform for Managing Online Learning</h3> 
 
 ### 🚀 Project Overview
 The Learning Management System (LMS) is a web-based platform designed to streamline the process of managing online courses, students, and content delivery. With an intuitive user interface and robust backend powered by Node.js, Express, and MongoDB, this LMS makes it easy for educators to create courses, track student progress, and offer a seamless learning experience.
